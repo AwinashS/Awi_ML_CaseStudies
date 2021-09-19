@@ -1,0 +1,6 @@
+1) I converted the datefield as datetime and set it as index
+2) I converted the index as float
+3) I kept store_id and remove the three fields as they have been 
+represented by same ID
+4) I proceeded it like regression problem
+5) My final solution was submitted by XGBoost
